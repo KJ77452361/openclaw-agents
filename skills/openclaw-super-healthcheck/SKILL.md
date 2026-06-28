@@ -1,3 +1,8 @@
+---
+name: openclaw-super-healthcheck
+description: OpenClaw 系统健康检查与安全加固。执行全面系统检查（版本/安全/网络/存储/内存/OpenClaw服务状态），以及安全配置审计（SSH/防火墙/更新/权限/风险评估）。
+---
+
 # healthcheck - OpenClaw 系统健康检查
 
 Host security hardening and risk-tolerance configuration for OpenClaw deployments. Use when a user asks for security audits, firewall/SSH/update hardening, risk posture, exposure review, OpenClaw cron scheduling for periodic checks, or version status checks on a machine running OpenClaw (laptop, workstation, Pi, VPS).
