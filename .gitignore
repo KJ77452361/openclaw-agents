@@ -31,3 +31,9 @@ Thumbs.db
 .git-credentials
 **/secrets*
 **/credentials*
+
+# === Knowledge base (separate git repo) ===
+MyBrain/
+
+# === Agent configs (separate git repo) ===
+agents-config/
