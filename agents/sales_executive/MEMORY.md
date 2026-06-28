@@ -1,6 +1,6 @@
 # MEMORY.md — sales_executive
 
-> 版本：v2.0.0
+> 版本：v2.1.0
 > 创建：2026-06-27
 > 更新：2026-06-28
 
@@ -27,6 +27,22 @@ COO（运营域）
 
 本工作区符合 STANDARDS.md v1.0.0 规范。
 
+## 技能生态
+
+| Skill | 版本 | 状态 | 来源 |
+|-------|------|------|------|
+| copywriting | — | ✅ | jk-0001 |
+| lead-enrichment | — | ✅ | audsmith28 |
+| self-improving-agent | — | ✅ | pskoett |
+
+## 社区技能生态
+
+本工作区接入了 ClawHub 社区技能市场（`~/.openclaw/workspace/skills/`），包括：
+
+- **copywriting**：AIDA/PAS/FAB 文案框架，适用于销售页、标题、CTA 写作
+- **lead-enrichment**：CRM 线索数据 enrichment，触发词：enrich lead / lead data / prospect
+- **self-improving-agent**：错误日志（`.learnings/ERRORS.md`）与纠正记录（`.learnings/LEARNINGS.md`），持续自我优化
+
 ---
 
-*v2.0.0 · King · 2026-06-28*
+*v2.1.0 · King · 2026-06-28*
