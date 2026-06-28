@@ -1,11 +1,7 @@
 ---
-name: Productivity
-slug: productivity
-version: 1.0.4
-homepage: https://clawic.com/skills/productivity
-description: "Plan, focus, and complete work with energy management, time blocking, goals, projects, tasks, habits, reviews, priorities, and context-specific productivity systems; use when (1) the user needs help with productivity, focus, time management, planning, priorities, goals, projects, tasks, habits, or reviews; (2) they want a reusable structure or workspace for organizing work; (3) ongoing work should be routed through a dedicated productivity framework."
-changelog: Expanded the system with clearer routing, setup, and folders for goals, tasks, habits, planning, and reviews
-metadata: {"clawdbot":{"emoji":"⚡","requires":{"bins":[]},"os":["linux","darwin","win32"],"configPaths":["~/productivity/"]}}
+title: productivity
+description: Plan, focus, and complete work with energy management, time blocking, goals, projects, tasks, habits, reviews, priorities, and context-specific productivity systems.
+version: sha256:93ccbf44a6538fad
 ---
 
 ## When to Use

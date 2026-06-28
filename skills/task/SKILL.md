@@ -1,12 +1,7 @@
 ---
-name: task
+title: task
 description: Tasker docstore task management via tool-dispatch. Use for task lists, due today/overdue, week planning, add/move/complete, or explicit /task commands.
-user-invocable: true
-disable-model-invocation: false
-command-dispatch: tool
-command-tool: tasker_cmd
-command-arg-mode: raw
-metadata: {"clawdbot":{"emoji":"🗂️"}}
+version: sha256:129ffe24ca5df7fc
 ---
 
 Route task-related requests to `tasker_cmd` (raw args only, no leading `tasker`).

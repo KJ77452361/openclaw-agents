@@ -1,6 +1,7 @@
 ---
-name: copywriting
-description: Write persuasive copy for landing pages, emails, ads, sales pages, and marketing materials. Use when you need to write headlines, CTAs, product descriptions, ad copy, email sequences, or any text meant to drive action. Covers copywriting formulas (AIDA, PAS, FAB), headline writing, emotional triggers, objection handling in copy, and A/B testing. Trigger on "write copy", "copywriting", "landing page copy", "headline", "write a sales page", "ad copy", "email copy", "persuasive writing", "how to write [marketing text]".
+title: copywriting
+description: Write persuasive copy for landing pages, emails, ads, sales pages, and marketing materials using AIDA, PAS, FAB frameworks.
+version: sha256:4d89ce0eaad0184f
 ---
 
 # Copywriting

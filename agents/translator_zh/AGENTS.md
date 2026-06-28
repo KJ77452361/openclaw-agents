@@ -3,7 +3,7 @@
 > 版本：v2.1.0
 > 创建：2026-06-27
 > 更新：2026-06-28
-> 标准化：workspace/STANDARDS.md v1.0.0
+> 标准化：workspace/STANDARDS.md v1.2.0
 
 ## 基本信息
 

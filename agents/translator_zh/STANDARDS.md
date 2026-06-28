@@ -1,6 +1,6 @@
 # STANDARDS.md — translator_zh
 
-> 版本：v1.0.0
+> 版本：v1.2.0
 > 建立：2026-06-28
 > 依据：CEO STANDARDS.md v1.1.0
 

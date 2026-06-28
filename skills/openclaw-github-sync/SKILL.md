@@ -1,8 +1,7 @@
 ---
-name: openclaw-github-sync
-description: Keep an OpenClaw agent's non-sensitive context (selected memory, MD files, notes, and custom skills) under version control in a separate Git repository for remote review/tweaks. Use when setting up or operating a Git-based workflow to export workspace context, commit changes (possibly split into multiple commits), and push on a schedule (e.g., nightly) without leaking secrets.
-homepage: https://github.com/bradvin/openclaw-github-sync
-metadata: {"openclaw":{"emoji":"🔄","homepage":"https://github.com/bradvin/openclaw-github-sync","requires":{"bins":["git","rsync","python3"],"env":["SYNC_REMOTE"]}}}
+title: openclaw-github-sync
+description: Keep an OpenClaw agent's non-sensitive context under version control in a separate Git repository for remote review and tweaks.
+version: sha256:27ce4b336db824bf
 ---
 
 # OpenClaw Git Sync

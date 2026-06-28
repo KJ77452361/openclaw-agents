@@ -1,6 +1,7 @@
 ---
-name: project-management
-description: Manage projects, tasks, and priorities effectively as a solopreneur. Use when organizing work, tracking progress, managing deadlines, coordinating with contractors or clients, or building project management systems. Covers task management methods, prioritization frameworks, project planning templates, tool selection, and personal productivity workflows. Trigger on "project management", "manage my work", "organize tasks", "project planning", "task management", "prioritization", "stay organized".
+title: project-management-2
+description: Manage projects, tasks, and priorities effectively as a solopreneur. Covers task management, prioritization frameworks, project planning, and productivity workflows.
+version: sha256:bccfab9e661f0258
 ---
 
 # Project Management

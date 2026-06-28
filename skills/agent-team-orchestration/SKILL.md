@@ -1,6 +1,7 @@
 ---
-name: agent-team-orchestration
-description: "Orchestrate multi-agent teams with defined roles, task lifecycles, handoff protocols, and review workflows. Use when: (1) Setting up a team of 2+ agents with different specializations, (2) Defining task routing and lifecycle (inbox → spec → build → review → done), (3) Creating handoff protocols between agents, (4) Establishing review and quality gates, (5) Managing async communication and artifact sharing between agents."
+title: agent-team-orchestration
+description: Orchestrate multi-agent teams with defined roles, task lifecycles, handoff protocols, and review workflows.
+version: sha256:ee8204c92884c727
 ---
 
 # Agent Team Orchestration

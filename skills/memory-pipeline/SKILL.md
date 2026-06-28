@@ -1,6 +1,7 @@
 ---
-name: memory-pipeline
-description: Complete agent memory + performance system. Extracts structured facts, builds knowledge graphs, generates briefings, and enforces execution discipline via pre-game routines, tool policies, result compression, and after-action reviews. Includes external knowledge ingestion (ChatGPT exports, etc.) into searchable memory. Use when working on memory management, briefing generation, knowledge consolidation, external data ingestion, agent consistency, or improving execution quality across sessions.
+title: memory-pipeline
+description: Complete agent memory + performance system. Extracts structured facts, builds knowledge graphs, generates briefings, and enforces execution discipline.
+version: sha256:63faf1d315eb970b
 ---
 
 # Memory Pipeline

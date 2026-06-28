@@ -1,11 +1,7 @@
 ---
-name: Self-Improving Proactive Agent
-slug: self-improving-proactive-agent
-version: 1.0.0
-homepage: https://github.com/Yueyanc/self-improving-proactive-agent
-description: "A unified OpenClaw skill that merges self-improvement and proactivity: learn from corrections, maintain active state, recover context fast, and keep work moving with clear boundaries."
-changelog: "Initial release. Combines the strongest patterns from self-improving and proactivity into one canonical skill package."
-metadata: {"clawdbot":{"emoji":"🧠","requires":{"bins":[]},"os":["linux","darwin","win32"],"configPaths":["~/self-improving/","~/proactivity/"],"configPaths.optional":["./AGENTS.md","./SOUL.md","./HEARTBEAT.md","./TOOLS.md"]}}
+title: self-improving-proactive-agent
+description: A unified OpenClaw skill that merges self-improvement and proactivity: learn from corrections, maintain active state, recover context fast, and keep work moving with clear boundaries.
+version: sha256:f95e92acab4b5a5f
 ---
 
 # Self-Improving Proactive Agent

@@ -17,3 +17,11 @@ Sales Executive
 ## Emoji
 
 💼
+
+---
+
+## Model
+
+| 属性 | 值 |
+|------|-----|
+| **model** | minimax/MiniMax-M2.7 |
