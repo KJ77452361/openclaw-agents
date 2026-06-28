@@ -1,0 +1,33 @@
+# === Core OpenClaw (do NOT commit) ===
+openclaw.json
+*.json.bak*
+.git/
+node_modules/
+
+# === Personal / Session data ===
+memory/
+daily/
+cron/runs/
+agents/*/memory/
+agents/*/.dreams/
+
+# === Lock & state files ===
+.clawhub/
+.openclaw/
+*.lock
+*.log
+
+# === OS ===
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# === Large binaries ===
+*.mp4 *.zip *.tar.gz *.pdf
+
+# === Sensitive secrets ===
+.netrc
+.git-credentials
+**/secrets*
+**/credentials*
