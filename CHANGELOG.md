@@ -1,5 +1,23 @@
 # Changelog — OpenClaw 自进化系统
 
+## [v1.1.0] 后续改善 — 2026-06-28
+
+### 完成时间
+2026-06-28 13:00 CST
+
+### 缺陷修复
+- ✅ `sys_self_health_hourly` payload 简化（复杂度导致超时，timeout 300s）
+- ✅ 三仓 GitHub Actions workflows（`openclaw-agents-config` 中添加 `sync-agents.yml` + `sync-all.yml`）
+- ✅ `knowledge_sync_daily` 增强为三仓同步（workspace + MyBrain + agents-config）
+- ✅ `agents-config/` 克隆到 workspace 并加入 .gitignore
+- ✅ `MyBrain/` 加入 workspace .gitignore（三仓完全隔离）
+- ✅ `PAT` secret 添加至 GitHub（`openclaw-agents` + `openclaw-agents-config`）
+
+### 已知改进
+- ⚠️ 3 个 cron job error 状态（isolated session Feishu delivery false-positive）：`sys_self_health_hourly` / `memory_log_compress` / `llm_wiki_weekly` — job 本身执行成功，仅 delivery 失败
+
+---
+
 ## [v1.0.0] Baseline — 2026-06-28
 
 ### 完成时间
