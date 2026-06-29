@@ -1,5 +1,6 @@
 ---
 title: ciso
+name: ciso
 description: Lead security with infrastructure audits, vulnerability triage, compliance tracking, vendor assessment, and incident response.
 version: sha256:8986f2d83ea3be5e
 ---

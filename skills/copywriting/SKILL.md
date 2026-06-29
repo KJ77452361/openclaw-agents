@@ -1,5 +1,6 @@
 ---
 title: copywriting
+name: copywriting
 description: Write persuasive copy for landing pages, emails, ads, sales pages, and marketing materials using AIDA, PAS, FAB frameworks.
 version: sha256:4d89ce0eaad0184f
 ---

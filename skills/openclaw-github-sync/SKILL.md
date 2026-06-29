@@ -1,5 +1,6 @@
 ---
 title: openclaw-github-sync
+name: openclaw-github-sync
 description: Keep an OpenClaw agent's non-sensitive context under version control in a separate Git repository for remote review and tweaks.
 version: sha256:27ce4b336db824bf
 ---

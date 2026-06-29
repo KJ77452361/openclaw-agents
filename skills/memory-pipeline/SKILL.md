@@ -1,5 +1,6 @@
 ---
 title: memory-pipeline
+name: memory-pipeline
 description: Complete agent memory + performance system. Extracts structured facts, builds knowledge graphs, generates briefings, and enforces execution discipline.
 version: sha256:63faf1d315eb970b
 ---

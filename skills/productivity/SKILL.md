@@ -1,5 +1,6 @@
 ---
 title: productivity
+name: productivity
 description: Plan, focus, and complete work with energy management, time blocking, goals, projects, tasks, habits, reviews, priorities, and context-specific productivity systems.
 version: sha256:93ccbf44a6538fad
 ---

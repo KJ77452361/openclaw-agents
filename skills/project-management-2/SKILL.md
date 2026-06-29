@@ -1,5 +1,6 @@
 ---
 title: project-management-2
+name: project-management-2
 description: Manage projects, tasks, and priorities effectively as a solopreneur. Covers task management, prioritization frameworks, project planning, and productivity workflows.
 version: sha256:bccfab9e661f0258
 ---

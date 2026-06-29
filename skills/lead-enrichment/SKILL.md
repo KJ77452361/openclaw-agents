@@ -1,5 +1,6 @@
 ---
 title: lead-enrichment
+name: lead-enrichment
 description: Turn a name into a full dossier in seconds. Aggregates data from LinkedIn, Twitter, GitHub, company websites, and news for personalized outreach.
 version: sha256:17bbc672f17b447c
 ---

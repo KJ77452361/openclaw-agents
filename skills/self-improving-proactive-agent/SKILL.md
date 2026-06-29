@@ -1,5 +1,6 @@
 ---
 title: self-improving-proactive-agent
+name: self-improving-proactive-agent
 description: A unified OpenClaw skill that merges self-improvement and proactivity: learn from corrections, maintain active state, recover context fast, and keep work moving with clear boundaries.
 version: sha256:f95e92acab4b5a5f
 ---

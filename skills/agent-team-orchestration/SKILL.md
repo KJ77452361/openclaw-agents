@@ -1,5 +1,6 @@
 ---
 title: agent-team-orchestration
+name: agent-team-orchestration
 description: Orchestrate multi-agent teams with defined roles, task lifecycles, handoff protocols, and review workflows.
 version: sha256:ee8204c92884c727
 ---

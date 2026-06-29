@@ -1,5 +1,6 @@
 ---
 title: openclaw-super-healthcheck
+name: openclaw-super-healthcheck
 description: OpenClaw 系统健康检查与安全加固。执行全面系统检查（版本/安全/网络/存储/内存/OpenClaw服务状态）及安全配置审计。
 version: sha256:3cf7a8597a380786
 ---

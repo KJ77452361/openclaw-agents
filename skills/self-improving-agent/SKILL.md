@@ -1,5 +1,6 @@
 ---
 title: self-improving-agent
+name: self-improving-agent
 description: Captures learnings, errors, and corrections to enable continuous improvement. Use when a command fails, user corrects, or a better approach is discovered.
 version: sha256:c698ee5c6a142866
 ---

@@ -1,5 +1,6 @@
 ---
 title: task
+name: task
 description: Tasker docstore task management via tool-dispatch. Use for task lists, due today/overdue, week planning, add/move/complete, or explicit /task commands.
 version: sha256:129ffe24ca5df7fc
 ---
